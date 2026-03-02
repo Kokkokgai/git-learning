@@ -1,5 +1,0 @@
-﻿Git Learining
-
-hello qwqowii
-
-git fetch test
